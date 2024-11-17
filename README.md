@@ -1,10 +1,10 @@
 # -app-dev
 My first repository
 # My Favorite Movie
-**Title**: *Inception*
+**Title**: *Tatanic*
 
-- **Genre**: Sci-Fi, Thriller
-- **Director**: Christopher Nolan
-- **Favorite Quote**: "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange."
+- **Genre**: Romance, Tragedy
+- **Director**: James Cameron
+- **Favorite Quote**: "My heart was pounding the whole time. It was the most erotic moment of my life. Up until then, at least."
 
 ![Inception Poster](https://picfiles.alphacoders.com/140/140026.jpg)
